@@ -1,2 +1,3 @@
 target/
 queryer-py/.env/
+.DS_Store
