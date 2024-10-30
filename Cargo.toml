@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+members = [
+  "demo",
+  "grep",
+  "httpie",
+  "queryer",
+  "queryer-py",
+  "scrape_url",
+  "thumbor",
+]
