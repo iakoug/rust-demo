@@ -6,6 +6,7 @@ members = [
   "httpie",
   "queryer",
   "queryer-py",
+  "rgrep",
   "scrape_url",
   "thumbor",
 ]
